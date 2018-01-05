@@ -1,0 +1,12 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"author":	"Bram Hendrickx",
+	"description":	{
+		"":	"Mass export sketches to DXF"
+	},
+	"version":	"0.0.1_beta",
+	"runOnStartup":	false,
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
